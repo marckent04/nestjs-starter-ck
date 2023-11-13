@@ -23,6 +23,9 @@
       "@db/*": ["./src/database/*"],
       "@shared/*": ["./src/shared/*"],
       "@core/*": ["./src/core/*"],
+      "@interceptors/*": ["./src/components/interceptors/*"],
+      "@guards/*": ["./src/components/guards/*"],
+      "@pipes/*": ["./src/components/pipes/*"]
     }
   }
 }
